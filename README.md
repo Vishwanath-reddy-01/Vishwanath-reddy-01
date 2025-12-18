@@ -51,17 +51,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="Resources/DBricks.png" alt="Databricks" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> 
+<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
+
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+<img src="Resources/DBricks.png" alt="Databricks" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
 </p>
 
 
